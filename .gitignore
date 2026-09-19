@@ -1,0 +1,15 @@
+# Build PyInstaller
+build/
+dist/
+*.exe
+__pycache__/
+*.pyc
+
+# Réglages locaux et journaux
+.vespa-trip.json
+*.log
+*.log.1
+
+# Systèmes
+.DS_Store
+Thumbs.db
